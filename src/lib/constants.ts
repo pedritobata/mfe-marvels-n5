@@ -1,0 +1,3 @@
+export const TMDB_IMAGE_URL = "https://image.tmdb.org/t/p/w500";
+export const TMDB_AUTHORIZATION_KEY =
+  "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ZDhkMjJlZjgyYjNjZmZiOWY4NGJkYjQ2YzExZDNiNyIsInN1YiI6IjVmNWQyMjkwZmQ3YWE0MDAzYmU0YWYwZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WNa1C9EQpDiQ4ZjvPDIPqXazf2C862paHvVJ3Ud4G_w";
